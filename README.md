@@ -7,6 +7,11 @@
 
 This project is used as a client for the Synthesis Service
 
+Download NWU configuration from
+[efundi-move-config.git](https://github.com/OpenCollabZA/efundi-move-config.git)
+and see [Build Configuration](./docs/build_configuration.md) to setup the
+configuration locally.
+
 
 ## Requirements
 
