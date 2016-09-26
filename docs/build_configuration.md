@@ -67,13 +67,13 @@ You might want to keep your custom configuration out of the project code, especi
 An external config file can be placed at `~/.${module-name}/build-config.json`
 
 For example if you did not change the package name the config will be located at
-` ~/.synthesis-mobile/build-config.json`
+` ~/.efundi-move/build-config.json`
 
 Which resolves to:
 
-**\*unix** `/home/username/.synthesis-mobile/build-config.json`
+**\*unix** `/home/username/.efundi-move/build-config.json`
 
-**Windows** `C:/Users/username/.synthesis-mobile/build-config.json`
+**Windows** `C:/Users/username/.efundi-move/build-config.json`
 
 All configuration options may be overridden in the external file.
 
