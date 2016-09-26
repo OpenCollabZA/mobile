@@ -11,8 +11,8 @@
 
 # Image to use as a splash screen (SVG only)
 NATIVE_SPLASH=app_banner.svg
-NATIVE_SPLASH_W=515
-NATIVE_SPLASH_H=235
+NATIVE_SPLASH_W=500
+NATIVE_SPLASH_H=500
 
 # Background to use with the splash screen
 # This color is used to fill the space of the splash
