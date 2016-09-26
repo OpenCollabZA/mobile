@@ -20,3 +20,6 @@
 *.ttf           binary
 *.woff          binary
 *.woff2         binary
+
+# Executables
+src/res/9pedit   binary

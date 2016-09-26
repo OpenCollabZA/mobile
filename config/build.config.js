@@ -11,7 +11,7 @@ var development = argv.development === true;
 var buildConfig = {
 	cordova : {
 		dir : 'cordova',
-		packageId : 'coza.opencollab.synthesis.mobile',
+		packageId : 'za.ac.nwu.efundi.mobile',
 		authorName : 'Charl Thiem',
 		authorEmail : 'charl@opencollab.co.za',
 		iconsAndroidXml : path.resolve(__dirname, 'icons-android.xml'),
@@ -88,7 +88,7 @@ var buildConfig = {
 	 * see the content they already downloaded, and content not uploaded
 	 * yet will seem lost!
 	 */
-	dataDir : 'SynthMobile',
+	dataDir : 'eFundiMOVE',
 	/*
 	 * Logging level
 	 * DEBUG : 1,

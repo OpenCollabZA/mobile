@@ -1,12 +1,12 @@
 {
-  "name": "synthesis-mobile",
-  "version": "1.0.0",
+  "name": "efundi-move",
+  "version": "1.0.4",
   "private": true,
   "description": "Synthesis mobile application",
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SynthesisProject/mobile.git"
+    "url": "https://github.com/OpenCollabZA/nwu-synthesis-mobile.git"
   },
   "contributors": {
     "name": "Charl Thiem"
